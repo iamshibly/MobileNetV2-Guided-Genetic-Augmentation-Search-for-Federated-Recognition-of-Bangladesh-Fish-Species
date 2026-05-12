@@ -4,7 +4,7 @@
 
 # Dataset and Nutrition CSV
 
-## **[Access the Dataset and Nutrition CSV](PASTE_YOUR_GOOGLE_DRIVE_LINK_HERE)**
+## **[Access the Dataset and Nutrition CSV](https://drive.google.com/file/d/1OhmyKxcqPe6FMafaNCIP1Pb4VP97VvIR/view?usp=drive_link)**
 
 ### **The Google Drive folder contains the freshwater fish image dataset and the per-100g nutrition metadata CSV file.**
 
