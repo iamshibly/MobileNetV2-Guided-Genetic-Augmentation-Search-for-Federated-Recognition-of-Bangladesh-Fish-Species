@@ -1,4 +1,4 @@
-# MobileNetV2-Guided Genetic Augmentation Search for Federated Recognition of Bangladesh Fish Species
+# MobileNetV2-Guided Genetic Augmentation Search for Federated Recognition of Bangladeshi Freshwater Fish Species
 
 <div align="center">
 
